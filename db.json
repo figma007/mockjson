@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "img": "/imgs/work-1.png",
+      "title": 'Food Recipe App',
+      "s-title": 'Design',
+      "id": 1
+    },
+    {
+      "img": "/imgs/work-2.png",
+      "title": 'Task Managment Mockup',
+      "s-title": 'Branding, Development',
+      "id": 2
+    },
+    {
+      "img": "/imgs/work-3.png",
+      "title": 'iPhone 12 Clay Mockup',
+      "s-title": 'Advertisement',
+      "id": 3
+    },
+    {
+      "img": "/imgs/work-4.png",
+      "title": 'Creative Dashboard',
+      "s-title": 'Design',
+      "id": 4
+    },
+    {
+      "img": "/imgs/work-5.png",
+      "title": 'Perfume Product Page',
+      "s-title": 'Design, Branding',
+      "id": 5
+    },
+    {
+      "img": "/imgs/work-6.png",
+      "title": 'Food Delivery App',
+      "s-title": 'Development',
+      "id": 6
+    }
+  ]
+}
